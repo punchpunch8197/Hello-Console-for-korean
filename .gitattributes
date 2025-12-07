@@ -3,3 +3,7 @@
 
 # 다른 텍스트 파일도 그대로 유지
 *.txt text eol=crlf
+
+*.png binary
+*.exe binary
+*.dll binary
