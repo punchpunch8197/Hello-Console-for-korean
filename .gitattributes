@@ -7,3 +7,5 @@
 *.png binary
 *.exe binary
 *.dll binary
+
+* -text
